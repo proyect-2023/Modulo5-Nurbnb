@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.Domain", "Nurbnb.Pagos.Domain\Nurbnb.Pagos.Domain.csproj", "{8B5CD5CA-A898-4079-9406-286B084AAB7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurant.SharedKernel", "..\Restaurant.Common\Restaurant.SharedKernel\Restaurant.SharedKernel.csproj", "{F92EA17F-8C36-4AD5-90D3-1199B57B83C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.Application", "Nurbnb.Pagos.Application\Nurbnb.Pagos.Application.csproj", "{D0F3DF8D-F072-410E-86E5-7AA17A651E8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.Infrastructure", "Nurbnb.Pagos.Infrastructure\Nurbnb.Pagos.Infrastructure.csproj", "{B59EA75A-C55B-4B88-A0B6-3C7B29397DE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.WebAPI", "Nurbnb.Pagos.WebAPI\Nurbnb.Pagos.WebAPI.csproj", "{6EB675FB-7542-4F9E-9123-F70B68F9683D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.Test", "Nurbnb.Pagos.Test\Nurbnb.Pagos.Test.csproj", "{B10A7ACD-73E2-4822-A48F-46E8E0C94CAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NurBNB.Reservas.IntegrationEvents", "..\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents.csproj", "{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5CD5CA-A898-4079-9406-286B084AAB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5CD5CA-A898-4079-9406-286B084AAB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5CD5CA-A898-4079-9406-286B084AAB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5CD5CA-A898-4079-9406-286B084AAB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92EA17F-8C36-4AD5-90D3-1199B57B83C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92EA17F-8C36-4AD5-90D3-1199B57B83C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92EA17F-8C36-4AD5-90D3-1199B57B83C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92EA17F-8C36-4AD5-90D3-1199B57B83C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F3DF8D-F072-410E-86E5-7AA17A651E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F3DF8D-F072-410E-86E5-7AA17A651E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F3DF8D-F072-410E-86E5-7AA17A651E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F3DF8D-F072-410E-86E5-7AA17A651E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59EA75A-C55B-4B88-A0B6-3C7B29397DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59EA75A-C55B-4B88-A0B6-3C7B29397DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59EA75A-C55B-4B88-A0B6-3C7B29397DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59EA75A-C55B-4B88-A0B6-3C7B29397DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB675FB-7542-4F9E-9123-F70B68F9683D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB675FB-7542-4F9E-9123-F70B68F9683D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB675FB-7542-4F9E-9123-F70B68F9683D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB675FB-7542-4F9E-9123-F70B68F9683D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10A7ACD-73E2-4822-A48F-46E8E0C94CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10A7ACD-73E2-4822-A48F-46E8E0C94CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10A7ACD-73E2-4822-A48F-46E8E0C94CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10A7ACD-73E2-4822-A48F-46E8E0C94CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4067BFB4-F7C0-4E90-AC25-64737C62C8C1}
+	EndGlobalSection
+EndGlobal

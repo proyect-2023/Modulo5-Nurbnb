@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iB2wKYWHreLBP+gDHBiimL73/TGy13oVZtG+qM4UXk8bbNUVbEP09irt65ZipPp9L72gZdE/qVaYJLVzc/rKaQ==",
+  "success": true,
+  "projectFilePath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LECLERE\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LECLERE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LECLERE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LECLERE\\.nuget\\packages\\restaurant.sharedkernel\\1.0.0\\restaurant.sharedkernel.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

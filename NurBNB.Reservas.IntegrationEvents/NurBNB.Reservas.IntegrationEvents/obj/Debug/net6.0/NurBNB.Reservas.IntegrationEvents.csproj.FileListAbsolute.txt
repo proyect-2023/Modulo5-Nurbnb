@@ -1,0 +1,44 @@
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.deps.json
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfoInputs.cache
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfo.cs
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\Compu Vieja\Proyectos\Diplomado Nano\Reservas\NurBNB.Reservas\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.deps.json
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfoInputs.cache
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfo.cs
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Proyecto-Git\Modulo2-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.deps.json
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfoInputs.cache
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfo.cs
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Modulo5-Proyecto\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.deps.json
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfoInputs.cache
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfo.cs
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll
