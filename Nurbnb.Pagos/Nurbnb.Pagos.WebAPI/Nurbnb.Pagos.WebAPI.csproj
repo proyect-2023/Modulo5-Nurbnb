@@ -19,4 +19,12 @@
     <ProjectReference Include="..\Nurbnb.Pagos.Infrastructure\Nurbnb.Pagos.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\Nurbnb.Pagos\Nurbnb.Pagos.WebAPI\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\Nurbnb.Pagos\Nurbnb.Pagos.WebAPI\.editorconfig" />
+  </ItemGroup>
+
 </Project>
