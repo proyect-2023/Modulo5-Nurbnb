@@ -2426,11 +2426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
+      "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
       "projectName": "Nurbnb.Pagos.Infrastructure",
-      "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
+      "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-      "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\obj\\",
+      "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2447,11 +2447,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
-              "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
+            "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
+              "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
             },
-            "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
-              "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj"
+            "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
+              "projectPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj"
             }
           }
         }

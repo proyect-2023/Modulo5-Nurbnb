@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iB2wKYWHreLBP+gDHBiimL73/TGy13oVZtG+qM4UXk8bbNUVbEP09irt65ZipPp9L72gZdE/qVaYJLVzc/rKaQ==",
+  "dgSpecHash": "vjgkjoxFaO8wyJmRBDrZIWN8Eac78/SgqTesxa9a4+B/jhAHDO4eaQbDCq/BdnA5H5OFaGatFYKksPvmw3oo2Q==",
   "success": true,
-  "projectFilePath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
+  "projectFilePath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LECLERE\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\LECLERE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

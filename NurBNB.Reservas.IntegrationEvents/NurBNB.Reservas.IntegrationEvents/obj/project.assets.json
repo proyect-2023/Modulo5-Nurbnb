@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
+      "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
       "projectName": "NurBNB.Reservas.IntegrationEvents",
-      "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
+      "projectPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
       "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-      "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\obj\\",
+      "outputPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",

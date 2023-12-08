@@ -42,3 +42,14 @@ D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvent
 D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
 D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
 D:\DiplomadoNur\Modulo5-Proyecto\Modulo5-Nurbnb\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.deps.json
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\bin\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfoInputs.cache
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.AssemblyInfo.cs
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\refint\NurBNB.Reservas.IntegrationEvents.dll
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\NurBNB.Reservas.IntegrationEvents.pdb
+D:\DiplomadoNur\Pagos\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\obj\Debug\net6.0\ref\NurBNB.Reservas.IntegrationEvents.dll

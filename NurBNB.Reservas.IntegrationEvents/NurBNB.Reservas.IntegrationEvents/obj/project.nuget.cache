@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hAYNykEVjjGJWNkGZ+7shkESNqfGRAROe7RgYTeKVEO4cvyaaq/11xcRC+rqmujSUBINkkRP00khI+U9oi2MzQ==",
+  "dgSpecHash": "eJixl1QCuOPIa7L9pNg8wekIif+N0r2Z1auFVsOVamytRHOolGI38uu3/DCEcjBac+YJwF6+jQKcaL47fPWvmQ==",
   "success": true,
-  "projectFilePath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
+  "projectFilePath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

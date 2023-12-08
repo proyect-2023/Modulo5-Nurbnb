@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\Nurbnb.Pagos.Test.csproj",
+      "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\Nurbnb.Pagos.Test.csproj",
       "projectName": "Nurbnb.Pagos.Test",
-      "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\Nurbnb.Pagos.Test.csproj",
+      "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\Nurbnb.Pagos.Test.csproj",
       "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-      "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\obj\\",
+      "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5841,11 +5841,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
-              "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
+            "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
+              "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
             },
-            "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
-              "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj"
+            "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
+              "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj"
             }
           }
         }

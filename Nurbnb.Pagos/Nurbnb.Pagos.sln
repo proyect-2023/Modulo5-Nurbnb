@@ -17,6 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nurbnb.Pagos.Test", "Nurbnb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NurBNB.Reservas.IntegrationEvents", "..\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents\NurBNB.Reservas.IntegrationEvents.csproj", "{7F8A3C36-332B-498F-A7F0-CDAE1B1EC391}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{C00AB974-B93C-4B95-88B3-CBA5E2EC25E0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

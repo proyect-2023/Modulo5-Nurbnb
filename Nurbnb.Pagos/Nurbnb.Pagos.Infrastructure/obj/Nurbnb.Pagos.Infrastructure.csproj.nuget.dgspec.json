@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {}
+    "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
+    "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj",
+        "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj",
         "projectName": "Nurbnb.Pagos.Application",
-        "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj",
+        "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj",
         "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-        "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\obj\\",
+        "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
-                "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj"
+              "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
+                "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
+    "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
+        "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
         "projectName": "Nurbnb.Pagos.Domain",
-        "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
+        "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\Nurbnb.Pagos.Domain.csproj",
         "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-        "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\obj\\",
+        "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
-                "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj"
+              "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
+                "projectPath": "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {
+    "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
+        "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
         "projectName": "Nurbnb.Pagos.Infrastructure",
-        "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
+        "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-        "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\obj\\",
+        "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
-                "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
+              "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj": {
+                "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Application\\Nurbnb.Pagos.Application.csproj"
               },
-              "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
-                "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj"
+              "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
+                "projectPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
+    "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
+        "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
         "projectName": "NurBNB.Reservas.IntegrationEvents",
-        "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
+        "projectPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents.csproj",
         "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-        "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\obj\\",
+        "outputPath": "D:\\DiplomadoNur\\Pagos\\NurBNB.Reservas.IntegrationEvents\\NurBNB.Reservas.IntegrationEvents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,14 +283,14 @@
         }
       }
     },
-    "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
+    "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+        "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
         "projectName": "Restaurant.SharedKernel",
-        "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+        "projectPath": "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-        "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Restaurant.Common\\Restaurant.SharedKernel\\obj\\",
+        "outputPath": "D:\\DiplomadoNur\\Pagos\\Restaurant.Common\\Restaurant.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",

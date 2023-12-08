@@ -2621,11 +2621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\Nurbnb.Pagos.WebAPI.csproj",
+      "projectUniqueName": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\Nurbnb.Pagos.WebAPI.csproj",
       "projectName": "Nurbnb.Pagos.WebAPI",
-      "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\Nurbnb.Pagos.WebAPI.csproj",
+      "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\Nurbnb.Pagos.WebAPI.csproj",
       "packagesPath": "C:\\Users\\LECLERE\\.nuget\\packages\\",
-      "outputPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\obj\\",
+      "outputPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LECLERE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2642,8 +2642,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {
-              "projectPath": "D:\\DiplomadoNur\\Modulo5-Proyecto\\Modulo5-Nurbnb\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj"
+            "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj": {
+              "projectPath": "D:\\DiplomadoNur\\Pagos\\Nurbnb.Pagos\\Nurbnb.Pagos.Infrastructure\\Nurbnb.Pagos.Infrastructure.csproj"
             }
           }
         }
